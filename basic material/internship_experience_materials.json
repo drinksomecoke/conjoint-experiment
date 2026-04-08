@@ -1,0 +1,680 @@
+{
+  "attribute": "Internship experience",
+  "groups": {
+    "no_relevant_internship_experience": {
+      "label": "No relevant internship experience",
+      "items": [
+        {
+          "id": "intern_01",
+          "focus_area": "data reporting",
+          "title": "Library Student Assistant",
+          "organization": "campus library circulation desk",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Helped maintain records and answered routine student questions.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_02",
+          "focus_area": "client support",
+          "title": "Admissions Ambassador",
+          "organization": "university admissions office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Supported campus visit logistics and responded to prospective student questions.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_03",
+          "focus_area": "marketing analytics",
+          "title": "Peer Tutor",
+          "organization": "academic support center",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Provided weekly tutoring sessions and tracked attendance.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_04",
+          "focus_area": "financial reporting",
+          "title": "Residence Hall Assistant",
+          "organization": "student housing office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Coordinated resident check-ins and documented maintenance requests.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_05",
+          "focus_area": "supply chain coordination",
+          "title": "Student Event Assistant",
+          "organization": "campus events office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Organized registration materials and supported event setup.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_06",
+          "focus_area": "research support",
+          "title": "Bookstore Associate",
+          "organization": "campus bookstore",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Handled point-of-sale transactions and restocked merchandise.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_07",
+          "focus_area": "people operations",
+          "title": "Front Desk Assistant",
+          "organization": "student recreation center",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Managed sign-ins and responded to member inquiries.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_08",
+          "focus_area": "sales support",
+          "title": "Office Assistant",
+          "organization": "department administrative office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Scheduled appointments and maintained filing systems.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_09",
+          "focus_area": "customer success",
+          "title": "Community Volunteer Coordinator",
+          "organization": "student service club",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Organized volunteer sign-ups and tracked participation.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_10",
+          "focus_area": "project coordination",
+          "title": "Orientation Leader",
+          "organization": "new student orientation program",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Guided incoming students and handled logistics.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_11",
+          "focus_area": "healthcare administration",
+          "title": "Teaching Assistant",
+          "organization": "introductory undergraduate course",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Supported grading and held review sessions.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_12",
+          "focus_area": "nonprofit program support",
+          "title": "Dining Services Team Member",
+          "organization": "campus dining hall",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Handled customer service and shift coordination tasks.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_13",
+          "focus_area": "retail planning",
+          "title": "Campus Technology Helper",
+          "organization": "student IT help desk",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Resolved basic account and device issues.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_14",
+          "focus_area": "insurance support",
+          "title": "Research Lab Assistant",
+          "organization": "faculty lab office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Organized study materials and maintained participant schedules.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_15",
+          "focus_area": "education services",
+          "title": "Student Call Center Representative",
+          "organization": "alumni relations office",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Updated contact records and logged outreach results.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_16",
+          "focus_area": "real estate support",
+          "title": "Fitness Desk Assistant",
+          "organization": "university fitness center",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Processed check-ins and maintained equipment logs.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_17",
+          "focus_area": "hospitality operations",
+          "title": "Museum Visitor Assistant",
+          "organization": "local museum front desk",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Provided visitor support and tracked daily attendance.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_18",
+          "focus_area": "product support",
+          "title": "Community Center Assistant",
+          "organization": "municipal community center",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Coordinated room bookings and responded to inquiries.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_19",
+          "focus_area": "communications support",
+          "title": "School Program Volunteer",
+          "organization": "after-school enrichment program",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Supervised activities and recorded attendance.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        },
+        {
+          "id": "intern_20",
+          "focus_area": "procurement support",
+          "title": "Retail Sales Associate",
+          "organization": "local retail store",
+          "summary": "Held a student or campus role, but no directly relevant internship was listed.",
+          "bullets": [
+            "Assisted customers and maintained inventory displays.",
+            "Managed recurring responsibilities while balancing coursework and weekly deadlines."
+          ]
+        }
+      ]
+    },
+    "relevant_internship_smaller_firm": {
+      "label": "Relevant internship at a smaller firm",
+      "items": [
+        {
+          "id": "intern_01",
+          "focus_area": "data reporting",
+          "title": "Data Operations Intern",
+          "organization": "North Harbor Insights",
+          "summary": "Completed a relevant internship focused on data reporting at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to data reporting and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_02",
+          "focus_area": "client support",
+          "title": "Operations Intern",
+          "organization": "Blue Ridge Advisory",
+          "summary": "Completed a relevant internship focused on client support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to client support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_03",
+          "focus_area": "marketing analytics",
+          "title": "Marketing Intern",
+          "organization": "Cedar Point Analytics",
+          "summary": "Completed a relevant internship focused on marketing analytics at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to marketing analytics and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_04",
+          "focus_area": "financial reporting",
+          "title": "Finance Intern",
+          "organization": "Maple Street Consulting",
+          "summary": "Completed a relevant internship focused on financial reporting at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to financial reporting and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_05",
+          "focus_area": "supply chain coordination",
+          "title": "Operations Intern",
+          "organization": "Brightwell Strategy Group",
+          "summary": "Completed a relevant internship focused on supply chain coordination at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to supply chain coordination and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_06",
+          "focus_area": "research support",
+          "title": "Research Assistant Intern",
+          "organization": "Pinecrest Research",
+          "summary": "Completed a relevant internship focused on research support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to research support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_07",
+          "focus_area": "people operations",
+          "title": "HR Intern",
+          "organization": "Silver Oak Solutions",
+          "summary": "Completed a relevant internship focused on people operations at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to people operations and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_08",
+          "focus_area": "sales support",
+          "title": "Sales Operations Intern",
+          "organization": "Redwood Business Services",
+          "summary": "Completed a relevant internship focused on sales support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to sales support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_09",
+          "focus_area": "customer success",
+          "title": "Customer Success Intern",
+          "organization": "HarborLine Operations",
+          "summary": "Completed a relevant internship focused on customer success at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to customer success and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_10",
+          "focus_area": "project coordination",
+          "title": "Project Support Intern",
+          "organization": "Summit Trail Partners",
+          "summary": "Completed a relevant internship focused on project coordination at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to project coordination and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_11",
+          "focus_area": "healthcare administration",
+          "title": "Administrative Intern",
+          "organization": "Westfield Data Services",
+          "summary": "Completed a relevant internship focused on healthcare administration at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to healthcare administration and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_12",
+          "focus_area": "nonprofit program support",
+          "title": "Program Intern",
+          "organization": "Elm Street Advisory",
+          "summary": "Completed a relevant internship focused on nonprofit program support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to nonprofit program support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_13",
+          "focus_area": "retail planning",
+          "title": "Merchandising Intern",
+          "organization": "Clearview Market Research",
+          "summary": "Completed a relevant internship focused on retail planning at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to retail planning and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_14",
+          "focus_area": "insurance support",
+          "title": "Claims Intern",
+          "organization": "Granite Point Consulting",
+          "summary": "Completed a relevant internship focused on insurance support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to insurance support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_15",
+          "focus_area": "education services",
+          "title": "Program Assistant Intern",
+          "organization": "Northgate Planning",
+          "summary": "Completed a relevant internship focused on education services at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to education services and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_16",
+          "focus_area": "real estate support",
+          "title": "Leasing Intern",
+          "organization": "Beacon Hill Analytics",
+          "summary": "Completed a relevant internship focused on real estate support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to real estate support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_17",
+          "focus_area": "hospitality operations",
+          "title": "Hospitality Intern",
+          "organization": "Lakefront Strategy",
+          "summary": "Completed a relevant internship focused on hospitality operations at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to hospitality operations and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_18",
+          "focus_area": "product support",
+          "title": "Product Operations Intern",
+          "organization": "Oakview Operations",
+          "summary": "Completed a relevant internship focused on product support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to product support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_19",
+          "focus_area": "communications support",
+          "title": "Communications Intern",
+          "organization": "Cornerstone Advisory",
+          "summary": "Completed a relevant internship focused on communications support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to communications support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        },
+        {
+          "id": "intern_20",
+          "focus_area": "procurement support",
+          "title": "Procurement Intern",
+          "organization": "Riverbend Insights",
+          "summary": "Completed a relevant internship focused on procurement support at a smaller firm.",
+          "bullets": [
+            "Supported day-to-day work related to procurement support and prepared materials for internal team review.",
+            "Worked closely with a small team and handled tasks spanning analysis, coordination, and follow-up."
+          ]
+        }
+      ]
+    },
+    "relevant_internship_well_known_firm": {
+      "label": "Relevant internship at a well-known firm",
+      "items": [
+        {
+          "id": "intern_01",
+          "focus_area": "data reporting",
+          "title": "Business Analyst Intern",
+          "organization": "Deloitte",
+          "summary": "Completed a relevant internship focused on data reporting at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to data reporting and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_02",
+          "focus_area": "client support",
+          "title": "Client Strategy Intern",
+          "organization": "Amazon",
+          "summary": "Completed a relevant internship focused on client support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to client support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_03",
+          "focus_area": "marketing analytics",
+          "title": "Marketing Analytics Intern",
+          "organization": "JPMorgan Chase",
+          "summary": "Completed a relevant internship focused on marketing analytics at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to marketing analytics and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_04",
+          "focus_area": "financial reporting",
+          "title": "Financial Planning Intern",
+          "organization": "Accenture",
+          "summary": "Completed a relevant internship focused on financial reporting at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to financial reporting and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_05",
+          "focus_area": "supply chain coordination",
+          "title": "Supply Chain Analyst Intern",
+          "organization": "Microsoft",
+          "summary": "Completed a relevant internship focused on supply chain coordination at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to supply chain coordination and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_06",
+          "focus_area": "research support",
+          "title": "Market Research Intern",
+          "organization": "PwC",
+          "summary": "Completed a relevant internship focused on research support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to research support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_07",
+          "focus_area": "people operations",
+          "title": "People Analytics Intern",
+          "organization": "Bank of America",
+          "summary": "Completed a relevant internship focused on people operations at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to people operations and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_08",
+          "focus_area": "sales support",
+          "title": "Commercial Strategy Intern",
+          "organization": "Target",
+          "summary": "Completed a relevant internship focused on sales support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to sales support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_09",
+          "focus_area": "customer success",
+          "title": "Customer Insights Intern",
+          "organization": "UnitedHealth Group",
+          "summary": "Completed a relevant internship focused on customer success at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to customer success and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_10",
+          "focus_area": "project coordination",
+          "title": "Project Management Intern",
+          "organization": "IBM",
+          "summary": "Completed a relevant internship focused on project coordination at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to project coordination and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_11",
+          "focus_area": "healthcare administration",
+          "title": "Healthcare Operations Intern",
+          "organization": "Citi",
+          "summary": "Completed a relevant internship focused on healthcare administration at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to healthcare administration and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_12",
+          "focus_area": "nonprofit program support",
+          "title": "Program Analytics Intern",
+          "organization": "PepsiCo",
+          "summary": "Completed a relevant internship focused on nonprofit program support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to nonprofit program support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_13",
+          "focus_area": "retail planning",
+          "title": "Retail Strategy Intern",
+          "organization": "Capital One",
+          "summary": "Completed a relevant internship focused on retail planning at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to retail planning and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_14",
+          "focus_area": "insurance support",
+          "title": "Business Process Intern",
+          "organization": "KPMG",
+          "summary": "Completed a relevant internship focused on insurance support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to insurance support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_15",
+          "focus_area": "education services",
+          "title": "Education Operations Intern",
+          "organization": "Adobe",
+          "summary": "Completed a relevant internship focused on education services at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to education services and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_16",
+          "focus_area": "real estate support",
+          "title": "Real Estate Analyst Intern",
+          "organization": "Pfizer",
+          "summary": "Completed a relevant internship focused on real estate support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to real estate support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_17",
+          "focus_area": "hospitality operations",
+          "title": "Revenue Operations Intern",
+          "organization": "American Express",
+          "summary": "Completed a relevant internship focused on hospitality operations at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to hospitality operations and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_18",
+          "focus_area": "product support",
+          "title": "Product Analyst Intern",
+          "organization": "Nike",
+          "summary": "Completed a relevant internship focused on product support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to product support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_19",
+          "focus_area": "communications support",
+          "title": "Corporate Communications Intern",
+          "organization": "Comcast",
+          "summary": "Completed a relevant internship focused on communications support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to communications support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        },
+        {
+          "id": "intern_20",
+          "focus_area": "procurement support",
+          "title": "Procurement Analyst Intern",
+          "organization": "Visa",
+          "summary": "Completed a relevant internship focused on procurement support at a well-known firm.",
+          "bullets": [
+            "Contributed to projects related to procurement support and supported structured reporting for broader teams.",
+            "Worked within established processes, communicated updates clearly, and delivered materials on schedule."
+          ]
+        }
+      ]
+    }
+  }
+}

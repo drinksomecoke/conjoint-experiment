@@ -1,0 +1,652 @@
+{
+  "source_file": "/Users/dingshaokai/work/cv_project/tonglin/resume-generator/us_news.csv",
+  "ranking_year": 2026,
+  "total_ranked_universities_used": 150,
+  "tertile_sizes": [
+    50,
+    50,
+    50
+  ],
+  "selection_rule": "Sort by 2026 US News rank ascending, split the ranked schools into three equal tertiles, then take the first 20 schools from each tertile.",
+  "groups": {
+    "highly_prestigious": {
+      "label": "Graduated from a highly prestigious university",
+      "group_index": 1,
+      "source_slice_start": 1,
+      "source_slice_end": 50,
+      "source_slice_rank_min": 1,
+      "source_slice_rank_max": 46,
+      "selected_count": 20,
+      "selected_rank_min": 1,
+      "selected_rank_max": 20,
+      "universities": [
+        {
+          "university_name": "Princeton University",
+          "state": "NJ",
+          "ipeds": 186131,
+          "rank_2026": 1,
+          "overall_sorted_position": 1,
+          "within_group_order": 1,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Massachusetts Institute of Technology",
+          "state": "MA",
+          "ipeds": 166683,
+          "rank_2026": 2,
+          "overall_sorted_position": 2,
+          "within_group_order": 2,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Harvard University",
+          "state": "MA",
+          "ipeds": 166027,
+          "rank_2026": 3,
+          "overall_sorted_position": 3,
+          "within_group_order": 3,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Stanford University",
+          "state": "CA",
+          "ipeds": 243744,
+          "rank_2026": 4,
+          "overall_sorted_position": 4,
+          "within_group_order": 4,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Yale University",
+          "state": "CT",
+          "ipeds": 130794,
+          "rank_2026": 4,
+          "overall_sorted_position": 5,
+          "within_group_order": 5,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "University of Chicago",
+          "state": "IL",
+          "ipeds": 144050,
+          "rank_2026": 6,
+          "overall_sorted_position": 6,
+          "within_group_order": 6,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Duke University",
+          "state": "NC",
+          "ipeds": 198419,
+          "rank_2026": 7,
+          "overall_sorted_position": 7,
+          "within_group_order": 7,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Johns Hopkins University",
+          "state": "MD",
+          "ipeds": 162928,
+          "rank_2026": 7,
+          "overall_sorted_position": 8,
+          "within_group_order": 8,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Northwestern University",
+          "state": "IL",
+          "ipeds": 147767,
+          "rank_2026": 7,
+          "overall_sorted_position": 9,
+          "within_group_order": 9,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "University of Pennsylvania",
+          "state": "PA",
+          "ipeds": 215062,
+          "rank_2026": 7,
+          "overall_sorted_position": 10,
+          "within_group_order": 10,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "California Institute of Technology",
+          "state": "CA",
+          "ipeds": 110404,
+          "rank_2026": 11,
+          "overall_sorted_position": 11,
+          "within_group_order": 11,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Cornell University",
+          "state": "NY",
+          "ipeds": 190415,
+          "rank_2026": 12,
+          "overall_sorted_position": 12,
+          "within_group_order": 12,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Brown University",
+          "state": "RI",
+          "ipeds": 217156,
+          "rank_2026": 13,
+          "overall_sorted_position": 13,
+          "within_group_order": 13,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Dartmouth College",
+          "state": "NH",
+          "ipeds": 182670,
+          "rank_2026": 13,
+          "overall_sorted_position": 14,
+          "within_group_order": 14,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Columbia University",
+          "state": "NY",
+          "ipeds": 190150,
+          "rank_2026": 15,
+          "overall_sorted_position": 15,
+          "within_group_order": 15,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "University of California-Berkeley",
+          "state": "CA",
+          "ipeds": 110635,
+          "rank_2026": 15,
+          "overall_sorted_position": 16,
+          "within_group_order": 16,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Rice University",
+          "state": "TX",
+          "ipeds": 227757,
+          "rank_2026": 17,
+          "overall_sorted_position": 17,
+          "within_group_order": 17,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "University of California-Los Angeles",
+          "state": "CA",
+          "ipeds": 110662,
+          "rank_2026": 17,
+          "overall_sorted_position": 18,
+          "within_group_order": 18,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Vanderbilt University",
+          "state": "TN",
+          "ipeds": 221999,
+          "rank_2026": 17,
+          "overall_sorted_position": 19,
+          "within_group_order": 19,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        },
+        {
+          "university_name": "Carnegie Mellon University",
+          "state": "PA",
+          "ipeds": 211440,
+          "rank_2026": 20,
+          "overall_sorted_position": 20,
+          "within_group_order": 20,
+          "prestige_group": "highly_prestigious",
+          "prestige_label": "Graduated from a highly prestigious university"
+        }
+      ]
+    },
+    "mid_tier": {
+      "label": "Graduated from a mid-tier university",
+      "group_index": 2,
+      "source_slice_start": 51,
+      "source_slice_end": 100,
+      "source_slice_rank_min": 51,
+      "source_slice_rank_max": 97,
+      "selected_count": 20,
+      "selected_rank_min": 51,
+      "selected_rank_max": 69,
+      "universities": [
+        {
+          "university_name": "Case Western Reserve University",
+          "state": "OH",
+          "ipeds": 201645,
+          "rank_2026": 51,
+          "overall_sorted_position": 51,
+          "within_group_order": 1,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "College of William and Mary",
+          "state": "VA",
+          "ipeds": 231624,
+          "rank_2026": 51,
+          "overall_sorted_position": 52,
+          "within_group_order": 2,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Florida State University",
+          "state": "FL",
+          "ipeds": 134097,
+          "rank_2026": 51,
+          "overall_sorted_position": 53,
+          "within_group_order": 3,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Texas A&M University-College Station",
+          "state": "TX",
+          "ipeds": 228723,
+          "rank_2026": 51,
+          "overall_sorted_position": 54,
+          "within_group_order": 4,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Virginia Polytechnic Institute and State University",
+          "state": "VA",
+          "ipeds": 233921,
+          "rank_2026": 51,
+          "overall_sorted_position": 55,
+          "within_group_order": 5,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Wake Forest University",
+          "state": "NC",
+          "ipeds": 199847,
+          "rank_2026": 51,
+          "overall_sorted_position": 56,
+          "within_group_order": 6,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "University of California-Merced",
+          "state": "CA",
+          "ipeds": 445188,
+          "rank_2026": 57,
+          "overall_sorted_position": 57,
+          "within_group_order": 7,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Villanova University",
+          "state": "PA",
+          "ipeds": 216597,
+          "rank_2026": 57,
+          "overall_sorted_position": 58,
+          "within_group_order": 8,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "George Washington University",
+          "state": "DC",
+          "ipeds": 131469,
+          "rank_2026": 59,
+          "overall_sorted_position": 59,
+          "within_group_order": 9,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Pennsylvania State University-University Park",
+          "state": "PA",
+          "ipeds": 214777,
+          "rank_2026": 59,
+          "overall_sorted_position": 60,
+          "within_group_order": 10,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Santa Clara University",
+          "state": "CA",
+          "ipeds": 122931,
+          "rank_2026": 59,
+          "overall_sorted_position": 61,
+          "within_group_order": 11,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Stony Brook University",
+          "state": "NY",
+          "ipeds": 196097,
+          "rank_2026": 59,
+          "overall_sorted_position": 62,
+          "within_group_order": 12,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "University of Minnesota",
+          "state": "MN",
+          "ipeds": 174066,
+          "rank_2026": 59,
+          "overall_sorted_position": 63,
+          "within_group_order": 13,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Michigan State University",
+          "state": "MI",
+          "ipeds": 171100,
+          "rank_2026": 64,
+          "overall_sorted_position": 64,
+          "within_group_order": 14,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "North Carolina State University",
+          "state": "NC",
+          "ipeds": 199193,
+          "rank_2026": 64,
+          "overall_sorted_position": 65,
+          "within_group_order": 15,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Rensselaer Polytechnic Institute",
+          "state": "NY",
+          "ipeds": 194824,
+          "rank_2026": 64,
+          "overall_sorted_position": 66,
+          "within_group_order": 16,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "University of Massachusetts-Amherst",
+          "state": "MA",
+          "ipeds": 166629,
+          "rank_2026": 64,
+          "overall_sorted_position": 67,
+          "within_group_order": 17,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "University of Miami",
+          "state": "FL",
+          "ipeds": 135726,
+          "rank_2026": 64,
+          "overall_sorted_position": 68,
+          "within_group_order": 18,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Brandeis University",
+          "state": "MA",
+          "ipeds": 165015,
+          "rank_2026": 69,
+          "overall_sorted_position": 69,
+          "within_group_order": 19,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        },
+        {
+          "university_name": "Tulane University",
+          "state": "LA",
+          "ipeds": 160755,
+          "rank_2026": 69,
+          "overall_sorted_position": 70,
+          "within_group_order": 20,
+          "prestige_group": "mid_tier",
+          "prestige_label": "Graduated from a mid-tier university"
+        }
+      ]
+    },
+    "less_prestigious": {
+      "label": "Graduated from a less prestigious university",
+      "group_index": 3,
+      "source_slice_start": 101,
+      "source_slice_end": 150,
+      "source_slice_rank_min": 97,
+      "source_slice_rank_max": 143,
+      "selected_count": 20,
+      "selected_rank_min": 97,
+      "selected_rank_max": 117,
+      "universities": [
+        {
+          "university_name": "University of Colorado-Boulder",
+          "state": "CO",
+          "ipeds": 126614,
+          "rank_2026": 97,
+          "overall_sorted_position": 101,
+          "within_group_order": 1,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Auburn University",
+          "state": "AL",
+          "ipeds": 100858,
+          "rank_2026": 102,
+          "overall_sorted_position": 102,
+          "within_group_order": 2,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Gonzaga University",
+          "state": "WA",
+          "ipeds": 235316,
+          "rank_2026": 102,
+          "overall_sorted_position": 103,
+          "within_group_order": 3,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Loyola Marymount University",
+          "state": "CA",
+          "ipeds": 117946,
+          "rank_2026": 102,
+          "overall_sorted_position": 104,
+          "within_group_order": 4,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Saint Louis University",
+          "state": "MZ",
+          "ipeds": 179159,
+          "rank_2026": 102,
+          "overall_sorted_position": 105,
+          "within_group_order": 5,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Temple University",
+          "state": "PA",
+          "ipeds": 216339,
+          "rank_2026": 102,
+          "overall_sorted_position": 106,
+          "within_group_order": 6,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Iowa",
+          "state": "IA",
+          "ipeds": 153658,
+          "rank_2026": 102,
+          "overall_sorted_position": 107,
+          "within_group_order": 7,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Missouri-Columbia",
+          "state": "MZ",
+          "ipeds": 178396,
+          "rank_2026": 102,
+          "overall_sorted_position": 108,
+          "within_group_order": 8,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Tennessee-Knoxville",
+          "state": "TN",
+          "ipeds": 221759,
+          "rank_2026": 102,
+          "overall_sorted_position": 109,
+          "within_group_order": 9,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Brigham Young University",
+          "state": "UT",
+          "ipeds": 230038,
+          "rank_2026": 110,
+          "overall_sorted_position": 110,
+          "within_group_order": 10,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Chapman University",
+          "state": "CA",
+          "ipeds": 111948,
+          "rank_2026": 110,
+          "overall_sorted_position": 111,
+          "within_group_order": 11,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Oklahoma",
+          "state": "OK",
+          "ipeds": 207500,
+          "rank_2026": 110,
+          "overall_sorted_position": 112,
+          "within_group_order": 12,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Oregon",
+          "state": "OR",
+          "ipeds": 209551,
+          "rank_2026": 110,
+          "overall_sorted_position": 113,
+          "within_group_order": 13,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of San Diego",
+          "state": "CA",
+          "ipeds": 122436,
+          "rank_2026": 110,
+          "overall_sorted_position": 114,
+          "within_group_order": 14,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of San Francisco",
+          "state": "CA",
+          "ipeds": 122612,
+          "rank_2026": 110,
+          "overall_sorted_position": 115,
+          "within_group_order": 15,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "University of Texas-Dallas",
+          "state": "TX",
+          "ipeds": 228787,
+          "rank_2026": 110,
+          "overall_sorted_position": 116,
+          "within_group_order": 16,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Arizona State University-Tempe",
+          "state": "AZ",
+          "ipeds": 104151,
+          "rank_2026": 117,
+          "overall_sorted_position": 117,
+          "within_group_order": 17,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Creighton University",
+          "state": "NE",
+          "ipeds": 181002,
+          "rank_2026": 117,
+          "overall_sorted_position": 118,
+          "within_group_order": 18,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "Elon University",
+          "state": "NC",
+          "ipeds": 198516,
+          "rank_2026": 117,
+          "overall_sorted_position": 119,
+          "within_group_order": 19,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        },
+        {
+          "university_name": "George Mason University",
+          "state": "VA",
+          "ipeds": 232186,
+          "rank_2026": 117,
+          "overall_sorted_position": 120,
+          "within_group_order": 20,
+          "prestige_group": "less_prestigious",
+          "prestige_label": "Graduated from a less prestigious university"
+        }
+      ]
+    }
+  }
+}

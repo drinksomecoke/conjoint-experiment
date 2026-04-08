@@ -1,0 +1,375 @@
+{
+  "attribute": "Project achievement style",
+  "groups": {
+    "without_quantified_results": {
+      "label": "Project experience described without quantified results",
+      "items": [
+        {
+          "id": "project_01",
+          "project_name": "Student Retention Dashboard",
+          "summary": "Developed a project analyzing student retention patterns and presented findings in an interactive dashboard for program staff.",
+          "bullets": [
+            "Collected and cleaned data related to student retention patterns.",
+            "Built an interactive dashboard for program staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_02",
+          "project_name": "Retail Sales Analysis",
+          "summary": "Developed a project analyzing store-level sales trends and presented findings in an reporting toolkit for weekly reviews.",
+          "bullets": [
+            "Collected and cleaned data related to store-level sales trends.",
+            "Built an reporting toolkit for weekly reviews and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_03",
+          "project_name": "Event Attendance Tracker",
+          "summary": "Developed a project analyzing event registration and turnout data and presented findings in an planning dashboard for organizers.",
+          "bullets": [
+            "Collected and cleaned data related to event registration and turnout data.",
+            "Built an planning dashboard for organizers and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_04",
+          "project_name": "Budget Variance Review",
+          "summary": "Developed a project analyzing department spending patterns and presented findings in an summary report for monthly meetings.",
+          "bullets": [
+            "Collected and cleaned data related to department spending patterns.",
+            "Built an summary report for monthly meetings and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_05",
+          "project_name": "Customer Service Log Analysis",
+          "summary": "Developed a project analyzing support ticket patterns and presented findings in an issue categorization dashboard.",
+          "bullets": [
+            "Collected and cleaned data related to support ticket patterns.",
+            "Built an issue categorization dashboard and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_06",
+          "project_name": "Housing Demand Study",
+          "summary": "Developed a project analyzing housing application trends and presented findings in an forecast summary for planning staff.",
+          "bullets": [
+            "Collected and cleaned data related to housing application trends.",
+            "Built an forecast summary for planning staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_07",
+          "project_name": "Survey Insights Report",
+          "summary": "Developed a project analyzing survey response patterns and presented findings in an presentation-ready findings for stakeholders.",
+          "bullets": [
+            "Collected and cleaned data related to survey response patterns.",
+            "Built an presentation-ready findings for stakeholders and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_08",
+          "project_name": "Inventory Reorder Tracker",
+          "summary": "Developed a project analyzing reorder timing and stock gaps and presented findings in an tracking sheet for operations staff.",
+          "bullets": [
+            "Collected and cleaned data related to reorder timing and stock gaps.",
+            "Built an tracking sheet for operations staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_09",
+          "project_name": "Volunteer Scheduling Tool",
+          "summary": "Developed a project analyzing volunteer shift coverage and presented findings in an coordination tracker for supervisors.",
+          "bullets": [
+            "Collected and cleaned data related to volunteer shift coverage.",
+            "Built an coordination tracker for supervisors and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_10",
+          "project_name": "Billing Error Review",
+          "summary": "Developed a project analyzing common billing exceptions and presented findings in an checklist for process improvement.",
+          "bullets": [
+            "Collected and cleaned data related to common billing exceptions.",
+            "Built an checklist for process improvement and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_11",
+          "project_name": "Website Traffic Summary",
+          "summary": "Developed a project analyzing traffic and engagement patterns and presented findings in an performance dashboard for communications staff.",
+          "bullets": [
+            "Collected and cleaned data related to traffic and engagement patterns.",
+            "Built an performance dashboard for communications staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_12",
+          "project_name": "Course Enrollment Review",
+          "summary": "Developed a project analyzing course enrollment changes and presented findings in an report for advising staff.",
+          "bullets": [
+            "Collected and cleaned data related to course enrollment changes.",
+            "Built an report for advising staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_13",
+          "project_name": "Vendor Comparison Model",
+          "summary": "Developed a project analyzing vendor pricing and service records and presented findings in an comparison worksheet for procurement review.",
+          "bullets": [
+            "Collected and cleaned data related to vendor pricing and service records.",
+            "Built an comparison worksheet for procurement review and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_14",
+          "project_name": "Fundraising Performance Report",
+          "summary": "Developed a project analyzing donor campaign results and presented findings in an summary deck for outreach planning.",
+          "bullets": [
+            "Collected and cleaned data related to donor campaign results.",
+            "Built an summary deck for outreach planning and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_15",
+          "project_name": "Clinic Scheduling Analysis",
+          "summary": "Developed a project analyzing appointment scheduling delays and presented findings in an tracking dashboard for administrators.",
+          "bullets": [
+            "Collected and cleaned data related to appointment scheduling delays.",
+            "Built an tracking dashboard for administrators and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_16",
+          "project_name": "Shipping Delay Review",
+          "summary": "Developed a project analyzing fulfillment timing issues and presented findings in an operations summary for team leads.",
+          "bullets": [
+            "Collected and cleaned data related to fulfillment timing issues.",
+            "Built an operations summary for team leads and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_17",
+          "project_name": "Claims Processing Review",
+          "summary": "Developed a project analyzing claims turnaround times and presented findings in an workflow summary for supervisors.",
+          "bullets": [
+            "Collected and cleaned data related to claims turnaround times.",
+            "Built an workflow summary for supervisors and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_18",
+          "project_name": "Recruitment Funnel Summary",
+          "summary": "Developed a project analyzing applicant funnel stages and presented findings in an dashboard for recruiting staff.",
+          "bullets": [
+            "Collected and cleaned data related to applicant funnel stages.",
+            "Built an dashboard for recruiting staff and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_19",
+          "project_name": "Membership Renewal Analysis",
+          "summary": "Developed a project analyzing renewal and churn patterns and presented findings in an report for account managers.",
+          "bullets": [
+            "Collected and cleaned data related to renewal and churn patterns.",
+            "Built an report for account managers and shared recommendations with stakeholders."
+          ]
+        },
+        {
+          "id": "project_20",
+          "project_name": "Training Attendance Tracker",
+          "summary": "Developed a project analyzing training completion records and presented findings in an status dashboard for coordinators.",
+          "bullets": [
+            "Collected and cleaned data related to training completion records.",
+            "Built an status dashboard for coordinators and shared recommendations with stakeholders."
+          ]
+        }
+      ]
+    },
+    "with_quantified_results": {
+      "label": "Project experience includes quantified results",
+      "items": [
+        {
+          "id": "project_01",
+          "project_name": "Student Retention Dashboard",
+          "summary": "Developed a project analyzing student retention patterns and presented findings in an interactive dashboard for program staff.",
+          "bullets": [
+            "Collected and cleaned data related to student retention patterns.",
+            "Built an interactive dashboard for program staff that cut preparation time by 18%."
+          ]
+        },
+        {
+          "id": "project_02",
+          "project_name": "Retail Sales Analysis",
+          "summary": "Developed a project analyzing store-level sales trends and presented findings in an reporting toolkit for weekly reviews.",
+          "bullets": [
+            "Collected and cleaned data related to store-level sales trends.",
+            "Built an reporting toolkit for weekly reviews that improved reporting turnaround by 22%."
+          ]
+        },
+        {
+          "id": "project_03",
+          "project_name": "Event Attendance Tracker",
+          "summary": "Developed a project analyzing event registration and turnout data and presented findings in an planning dashboard for organizers.",
+          "bullets": [
+            "Collected and cleaned data related to event registration and turnout data.",
+            "Built an planning dashboard for organizers that reduced manual review effort by 15%."
+          ]
+        },
+        {
+          "id": "project_04",
+          "project_name": "Budget Variance Review",
+          "summary": "Developed a project analyzing department spending patterns and presented findings in an summary report for monthly meetings.",
+          "bullets": [
+            "Collected and cleaned data related to department spending patterns.",
+            "Built an summary report for monthly meetings that increased data accuracy by 12%."
+          ]
+        },
+        {
+          "id": "project_05",
+          "project_name": "Customer Service Log Analysis",
+          "summary": "Developed a project analyzing support ticket patterns and presented findings in an issue categorization dashboard.",
+          "bullets": [
+            "Collected and cleaned data related to support ticket patterns.",
+            "Built an issue categorization dashboard that shortened update cycles by 20%."
+          ]
+        },
+        {
+          "id": "project_06",
+          "project_name": "Housing Demand Study",
+          "summary": "Developed a project analyzing housing application trends and presented findings in an forecast summary for planning staff.",
+          "bullets": [
+            "Collected and cleaned data related to housing application trends.",
+            "Built an forecast summary for planning staff that improved completion rates by 14%."
+          ]
+        },
+        {
+          "id": "project_07",
+          "project_name": "Survey Insights Report",
+          "summary": "Developed a project analyzing survey response patterns and presented findings in an presentation-ready findings for stakeholders.",
+          "bullets": [
+            "Collected and cleaned data related to survey response patterns.",
+            "Built an presentation-ready findings for stakeholders that reduced follow-up delays by 19%."
+          ]
+        },
+        {
+          "id": "project_08",
+          "project_name": "Inventory Reorder Tracker",
+          "summary": "Developed a project analyzing reorder timing and stock gaps and presented findings in an tracking sheet for operations staff.",
+          "bullets": [
+            "Collected and cleaned data related to reorder timing and stock gaps.",
+            "Built an tracking sheet for operations staff that improved response tracking by 17%."
+          ]
+        },
+        {
+          "id": "project_09",
+          "project_name": "Volunteer Scheduling Tool",
+          "summary": "Developed a project analyzing volunteer shift coverage and presented findings in an coordination tracker for supervisors.",
+          "bullets": [
+            "Collected and cleaned data related to volunteer shift coverage.",
+            "Built an coordination tracker for supervisors that reduced stockout exceptions by 13%."
+          ]
+        },
+        {
+          "id": "project_10",
+          "project_name": "Billing Error Review",
+          "summary": "Developed a project analyzing common billing exceptions and presented findings in an checklist for process improvement.",
+          "bullets": [
+            "Collected and cleaned data related to common billing exceptions.",
+            "Built an checklist for process improvement that improved scheduling visibility by 21%."
+          ]
+        },
+        {
+          "id": "project_11",
+          "project_name": "Website Traffic Summary",
+          "summary": "Developed a project analyzing traffic and engagement patterns and presented findings in an performance dashboard for communications staff.",
+          "bullets": [
+            "Collected and cleaned data related to traffic and engagement patterns.",
+            "Built an performance dashboard for communications staff that lowered billing review time by 16%."
+          ]
+        },
+        {
+          "id": "project_12",
+          "project_name": "Course Enrollment Review",
+          "summary": "Developed a project analyzing course enrollment changes and presented findings in an report for advising staff.",
+          "bullets": [
+            "Collected and cleaned data related to course enrollment changes.",
+            "Built an report for advising staff that improved content reporting speed by 23%."
+          ]
+        },
+        {
+          "id": "project_13",
+          "project_name": "Vendor Comparison Model",
+          "summary": "Developed a project analyzing vendor pricing and service records and presented findings in an comparison worksheet for procurement review.",
+          "bullets": [
+            "Collected and cleaned data related to vendor pricing and service records.",
+            "Built an comparison worksheet for procurement review that reduced advising prep time by 18%."
+          ]
+        },
+        {
+          "id": "project_14",
+          "project_name": "Fundraising Performance Report",
+          "summary": "Developed a project analyzing donor campaign results and presented findings in an summary deck for outreach planning.",
+          "bullets": [
+            "Collected and cleaned data related to donor campaign results.",
+            "Built an summary deck for outreach planning that improved vendor comparison turnaround by 20%."
+          ]
+        },
+        {
+          "id": "project_15",
+          "project_name": "Clinic Scheduling Analysis",
+          "summary": "Developed a project analyzing appointment scheduling delays and presented findings in an tracking dashboard for administrators.",
+          "bullets": [
+            "Collected and cleaned data related to appointment scheduling delays.",
+            "Built an tracking dashboard for administrators that raised campaign follow-up efficiency by 15%."
+          ]
+        },
+        {
+          "id": "project_16",
+          "project_name": "Shipping Delay Review",
+          "summary": "Developed a project analyzing fulfillment timing issues and presented findings in an operations summary for team leads.",
+          "bullets": [
+            "Collected and cleaned data related to fulfillment timing issues.",
+            "Built an operations summary for team leads that cut scheduling backlog by 17%."
+          ]
+        },
+        {
+          "id": "project_17",
+          "project_name": "Claims Processing Review",
+          "summary": "Developed a project analyzing claims turnaround times and presented findings in an workflow summary for supervisors.",
+          "bullets": [
+            "Collected and cleaned data related to claims turnaround times.",
+            "Built an workflow summary for supervisors that reduced delay review time by 14%."
+          ]
+        },
+        {
+          "id": "project_18",
+          "project_name": "Recruitment Funnel Summary",
+          "summary": "Developed a project analyzing applicant funnel stages and presented findings in an dashboard for recruiting staff.",
+          "bullets": [
+            "Collected and cleaned data related to applicant funnel stages.",
+            "Built an dashboard for recruiting staff that improved funnel reporting speed by 19%."
+          ]
+        },
+        {
+          "id": "project_19",
+          "project_name": "Membership Renewal Analysis",
+          "summary": "Developed a project analyzing renewal and churn patterns and presented findings in an report for account managers.",
+          "bullets": [
+            "Collected and cleaned data related to renewal and churn patterns.",
+            "Built an report for account managers that increased renewal tracking accuracy by 11%."
+          ]
+        },
+        {
+          "id": "project_20",
+          "project_name": "Training Attendance Tracker",
+          "summary": "Developed a project analyzing training completion records and presented findings in an status dashboard for coordinators.",
+          "bullets": [
+            "Collected and cleaned data related to training completion records.",
+            "Built an status dashboard for coordinators that raised training status visibility by 24%."
+          ]
+        }
+      ]
+    }
+  }
+}

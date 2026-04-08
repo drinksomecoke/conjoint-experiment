@@ -1,0 +1,61 @@
+university_name,state,ipeds,rank_2026,overall_sorted_position,within_group_order,prestige_group,prestige_label
+Princeton University,NJ,186131,1,1,1,highly_prestigious,Graduated from a highly prestigious university
+Massachusetts Institute of Technology,MA,166683,2,2,2,highly_prestigious,Graduated from a highly prestigious university
+Harvard University,MA,166027,3,3,3,highly_prestigious,Graduated from a highly prestigious university
+Stanford University,CA,243744,4,4,4,highly_prestigious,Graduated from a highly prestigious university
+Yale University,CT,130794,4,5,5,highly_prestigious,Graduated from a highly prestigious university
+University of Chicago,IL,144050,6,6,6,highly_prestigious,Graduated from a highly prestigious university
+Duke University,NC,198419,7,7,7,highly_prestigious,Graduated from a highly prestigious university
+Johns Hopkins University,MD,162928,7,8,8,highly_prestigious,Graduated from a highly prestigious university
+Northwestern University,IL,147767,7,9,9,highly_prestigious,Graduated from a highly prestigious university
+University of Pennsylvania,PA,215062,7,10,10,highly_prestigious,Graduated from a highly prestigious university
+California Institute of Technology,CA,110404,11,11,11,highly_prestigious,Graduated from a highly prestigious university
+Cornell University,NY,190415,12,12,12,highly_prestigious,Graduated from a highly prestigious university
+Brown University,RI,217156,13,13,13,highly_prestigious,Graduated from a highly prestigious university
+Dartmouth College,NH,182670,13,14,14,highly_prestigious,Graduated from a highly prestigious university
+Columbia University,NY,190150,15,15,15,highly_prestigious,Graduated from a highly prestigious university
+University of California-Berkeley,CA,110635,15,16,16,highly_prestigious,Graduated from a highly prestigious university
+Rice University,TX,227757,17,17,17,highly_prestigious,Graduated from a highly prestigious university
+University of California-Los Angeles,CA,110662,17,18,18,highly_prestigious,Graduated from a highly prestigious university
+Vanderbilt University,TN,221999,17,19,19,highly_prestigious,Graduated from a highly prestigious university
+Carnegie Mellon University,PA,211440,20,20,20,highly_prestigious,Graduated from a highly prestigious university
+Case Western Reserve University,OH,201645,51,51,1,mid_tier,Graduated from a mid-tier university
+College of William and Mary,VA,231624,51,52,2,mid_tier,Graduated from a mid-tier university
+Florida State University,FL,134097,51,53,3,mid_tier,Graduated from a mid-tier university
+Texas A&M University-College Station,TX,228723,51,54,4,mid_tier,Graduated from a mid-tier university
+Virginia Polytechnic Institute and State University,VA,233921,51,55,5,mid_tier,Graduated from a mid-tier university
+Wake Forest University,NC,199847,51,56,6,mid_tier,Graduated from a mid-tier university
+University of California-Merced,CA,445188,57,57,7,mid_tier,Graduated from a mid-tier university
+Villanova University,PA,216597,57,58,8,mid_tier,Graduated from a mid-tier university
+George Washington University,DC,131469,59,59,9,mid_tier,Graduated from a mid-tier university
+Pennsylvania State University-University Park,PA,214777,59,60,10,mid_tier,Graduated from a mid-tier university
+Santa Clara University,CA,122931,59,61,11,mid_tier,Graduated from a mid-tier university
+Stony Brook University,NY,196097,59,62,12,mid_tier,Graduated from a mid-tier university
+University of Minnesota,MN,174066,59,63,13,mid_tier,Graduated from a mid-tier university
+Michigan State University,MI,171100,64,64,14,mid_tier,Graduated from a mid-tier university
+North Carolina State University,NC,199193,64,65,15,mid_tier,Graduated from a mid-tier university
+Rensselaer Polytechnic Institute,NY,194824,64,66,16,mid_tier,Graduated from a mid-tier university
+University of Massachusetts-Amherst,MA,166629,64,67,17,mid_tier,Graduated from a mid-tier university
+University of Miami,FL,135726,64,68,18,mid_tier,Graduated from a mid-tier university
+Brandeis University,MA,165015,69,69,19,mid_tier,Graduated from a mid-tier university
+Tulane University,LA,160755,69,70,20,mid_tier,Graduated from a mid-tier university
+University of Colorado-Boulder,CO,126614,97,101,1,less_prestigious,Graduated from a less prestigious university
+Auburn University,AL,100858,102,102,2,less_prestigious,Graduated from a less prestigious university
+Gonzaga University,WA,235316,102,103,3,less_prestigious,Graduated from a less prestigious university
+Loyola Marymount University,CA,117946,102,104,4,less_prestigious,Graduated from a less prestigious university
+Saint Louis University,MZ,179159,102,105,5,less_prestigious,Graduated from a less prestigious university
+Temple University,PA,216339,102,106,6,less_prestigious,Graduated from a less prestigious university
+University of Iowa,IA,153658,102,107,7,less_prestigious,Graduated from a less prestigious university
+University of Missouri-Columbia,MZ,178396,102,108,8,less_prestigious,Graduated from a less prestigious university
+University of Tennessee-Knoxville,TN,221759,102,109,9,less_prestigious,Graduated from a less prestigious university
+Brigham Young University,UT,230038,110,110,10,less_prestigious,Graduated from a less prestigious university
+Chapman University,CA,111948,110,111,11,less_prestigious,Graduated from a less prestigious university
+University of Oklahoma,OK,207500,110,112,12,less_prestigious,Graduated from a less prestigious university
+University of Oregon,OR,209551,110,113,13,less_prestigious,Graduated from a less prestigious university
+University of San Diego,CA,122436,110,114,14,less_prestigious,Graduated from a less prestigious university
+University of San Francisco,CA,122612,110,115,15,less_prestigious,Graduated from a less prestigious university
+University of Texas-Dallas,TX,228787,110,116,16,less_prestigious,Graduated from a less prestigious university
+Arizona State University-Tempe,AZ,104151,117,117,17,less_prestigious,Graduated from a less prestigious university
+Creighton University,NE,181002,117,118,18,less_prestigious,Graduated from a less prestigious university
+Elon University,NC,198516,117,119,19,less_prestigious,Graduated from a less prestigious university
+George Mason University,VA,232186,117,120,20,less_prestigious,Graduated from a less prestigious university
