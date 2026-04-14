@@ -13,9 +13,11 @@ BASE_PROMPT = (
     "shadows, no beauty retouching, no glamour styling, no heavy makeup, no facial hair "
     "beyond normal subtle grooming if applicable, no glasses, no jewelry, no hats, no "
     "visible logos, no watermark. Clothing should be a simple medium-gray crew-neck t-shirt. "
-    "Age should appear approximately 28 to 32. Keep camera angle, crop, lighting, clothing, "
+    "Age should appear approximately 25 to 38. Keep camera angle, crop, lighting, clothing, "
     "background, expression intensity, and overall attractiveness level highly consistent "
-    "across all categories so only race and gender vary."
+    "across all categories. Within each race-gender group, make the ten people clearly "
+    "different from one another while keeping all of them ordinary and comparable in "
+    "attractiveness."
 )
 
 
@@ -31,11 +33,26 @@ CATEGORIES = [
 ]
 
 
+VARIATIONS = [
+    "rounder face, softer jawline, fuller cheeks, short neat hair, medium skin tone for the group",
+    "longer oval face, narrower jaw, slightly higher forehead, tidy side-part hairstyle, slightly lighter skin tone for the group",
+    "broader face, stronger but not model-like jaw, close-cropped hair, slightly darker skin tone for the group",
+    "heart-shaped face, smaller chin, slightly fuller lips, simple natural hairstyle, average skin tone for the group",
+    "rectangular face, prominent cheekbones, straight natural hairline, slightly uneven but realistic skin texture",
+    "softer facial features, lower cheekbones, wider nose bridge, neat low-maintenance hairstyle",
+    "slimmer face, longer nose, subtle under-eye texture, simple professional grooming",
+    "wider face, shorter forehead, fuller jaw area, natural hair volume without styling",
+    "angular face, defined brow area, modest asymmetry, plain everyday hairstyle",
+    "balanced oval face, distinct nose and mouth shape from the other variants, natural complexion variation",
+]
+
+
 def build_job(race: str, gender: str, subject: str, index: int) -> dict:
     variation = (
-        f"Variant {index}: preserve the same average-looking controlled portrait setup, "
-        "with only minor natural variation in face shape, hairstyle, and skin tone within "
-        "the same demographic category."
+        f"Variant {index}: {VARIATIONS[index - 1]}. "
+        "Make this individual visibly distinct from the other variants in the same "
+        "race-gender group, but do not make them unusually attractive, unattractive, "
+        "stylized, expressive, or memorable for non-face reasons."
     )
     return {
         "prompt": f"{BASE_PROMPT} {variation}",
